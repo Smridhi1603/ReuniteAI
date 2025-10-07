@@ -13,7 +13,7 @@ Automated Alerts – Send real-time email notifications to guardians if a match 
 
 Installation Instructions
 1. Clone the Repository:
-git clone https://github.com/tanishachoudhary19/ReuniteAi.git
+git clone
 cd ReuniteAi
 2. Set Up a Virtual Environment:
 python3 -m venv venv
